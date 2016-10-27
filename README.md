@@ -2,6 +2,9 @@
 
 Prefabs by GuppyCur and Lazman
 
+![Wartorn1](https://raw.githubusercontent.com/7days2mod/WarTornDiersville/master/Wartorn1.jpg)
+![Wartorn2](https://raw.githubusercontent.com/7days2mod/WarTornDiersville/master/Wartorn2.jpg)
+
 Copy the prefabs .tts and .xml into the /Data/Prefabs folder (or extract the zip in the game folder for 7 days to die)
 
 In rwgmixer.xml:
