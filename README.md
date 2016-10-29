@@ -1,6 +1,6 @@
 # WarTornDiersville
 
-Prefabs by GuppyCur and Lazman
+Prefabs by GuppyCur (Diersville Blocks), Lazman (School and Automotive) and TSBX (Helipad)
 
 ![Wartorn1](https://raw.githubusercontent.com/7days2mod/WarTornDiersville/master/Wartorn1.jpg)
 ![Wartorn2](https://raw.githubusercontent.com/7days2mod/WarTornDiersville/master/Wartorn2.jpg)
