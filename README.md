@@ -33,7 +33,7 @@ Add to the `hub_rules` section:
 
 ```
     <hub_rule name="WartornDiers">
-      <hub_type value="town"/>
+      <hub_type value="rural"/>
       <width value="299,299" />
       <height value="312,312" />
       <hub_layout name="WartornDiersLayout"/>
@@ -45,7 +45,6 @@ Add to the `hub_layouts` section:
 
 ```
     <hub_layout name="WartornDiersLayout">
-      <township_type value="town"/>
       <street start_point="0,0" end_point="299,0" path_material="asphalt" path_radius="7"/>
       <street start_point="299,0" end_point="299,258" path_material="asphalt" path_radius="7"/>
       <street start_point="299,258" end_point="0,258" path_material="asphalt" path_radius="7"/>
